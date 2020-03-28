@@ -1,5 +1,7 @@
 # Datadog ARMv7 Builder
 
+[![Agent ARMv7 Builder](https://github.com/palazzem/datadog-armv7-builder/workflows/Agent%20ARMv7%20Builder/badge.svg)](https://github.com/palazzem/datadog-armv7-builder/actions?query=workflow%3A%22Agent+ARMv7+Builder%22)
+
 The present repository provides a Docker image to build the [Datadog Agent][1]
 from source. The build happens in two steps:
 1. Building the container using the `Dockerfile`, creates a container with needed
